@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: oat-ai-inventory
+    runtime: static
+    buildCommand: npm run build
+    staticPublishPath: ./dist

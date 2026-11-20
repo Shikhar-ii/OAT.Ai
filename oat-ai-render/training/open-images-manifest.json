@@ -1,0 +1,2702 @@
+[
+  {
+    "filename": "open_7e2afdc21926bd14.jpg",
+    "image_id": "7e2afdc21926bd14",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.50442475,
+        0.091310754,
+        0.32964605,
+        0.698085416
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        344.02,
+        93.5,
+        224.82,
+        714.84
+      ]
+    ],
+    "width": 682,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "The world without the letter 'k'.",
+    "author": "Lech Karol Paw\u0142aszek",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/ikex/3541309247",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/7e2afdc21926bd14.jpg",
+    "split": "test"
+  },
+  {
+    "filename": "open_9bd3e32a2337f9bc.jpg",
+    "image_id": "9bd3e32a2337f9bc",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.25631768,
+        0.032490976,
+        0.48555958,
+        0.929602924
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        262.47,
+        33.27,
+        497.21,
+        951.91
+      ]
+    ],
+    "width": 1024,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "#idiot #snail #milkbottle thinks: &quot;hmm... I'll just clamber in here for a nice snooze&quot;",
+    "author": "Feeling My Age",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/feelingmyage/14956869955",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/9bd3e32a2337f9bc.jpg",
+    "split": "test"
+  },
+  {
+    "filename": "open_c264f4ac854e66eb.jpg",
+    "image_id": "c264f4ac854e66eb",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.54791665,
+        0.046875,
+        0.31458335000000004,
+        0.9390625
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        420.8,
+        48.0,
+        241.6,
+        961.6
+      ]
+    ],
+    "width": 768,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "Erdinger Wei\u00dfbier",
+    "author": "Jan-Willem Reusink",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/jimmybenson/8334963708",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/c264f4ac854e66eb.jpg",
+    "split": "test"
+  },
+  {
+    "filename": "open_10fd5df6c15ddcad.jpg",
+    "image_id": "10fd5df6c15ddcad",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.34697855,
+        0.17391305,
+        0.24171545000000005,
+        0.51505018
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        266.48,
+        155.83,
+        185.64,
+        461.48
+      ]
+    ],
+    "width": 768,
+    "height": 896,
+    "kind": "bottle",
+    "title": "Bottiglia ubriaca, chilling out",
+    "author": "Monica Arellano-Ongpin",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/maong/3409131686",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/10fd5df6c15ddcad.jpg",
+    "split": "test"
+  },
+  {
+    "filename": "open_b5bbb96eefd779eb.jpg",
+    "image_id": "b5bbb96eefd779eb",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.51762116,
+        0.0,
+        0.48237884,
+        0.9288889
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        356.64,
+        0.0,
+        332.36,
+        951.18
+      ]
+    ],
+    "width": 689,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "Czech lager at the Old Prague Restaurant",
+    "author": "Roy Luck",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/royluck/9429993515",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/b5bbb96eefd779eb.jpg",
+    "split": "test"
+  },
+  {
+    "filename": "open_dd42197939e82d8c.jpg",
+    "image_id": "dd42197939e82d8c",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.052966103,
+        0.0431433,
+        0.9025423969999999,
+        0.9167950500000001
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        39.46,
+        44.18,
+        672.39,
+        938.8
+      ]
+    ],
+    "width": 745,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "Mulheres de Express\u00e3o",
+    "author": "Fernando Shoiti Schatzmann",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/fernandoshoiti/2367425033",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/dd42197939e82d8c.jpg",
+    "split": "test"
+  },
+  {
+    "filename": "open_17135174fbbf3301.jpg",
+    "image_id": "17135174fbbf3301",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.61283183,
+        0.06480118,
+        0.38053101,
+        0.85861562
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        417.95,
+        66.36,
+        259.52,
+        879.22
+      ]
+    ],
+    "width": 682,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "Rheinhessen 2005ER Weisser Burqunder Trocken",
+    "author": "Yusuke Kawasaki",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/u-suke/2835619435",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/17135174fbbf3301.jpg",
+    "split": "test"
+  },
+  {
+    "filename": "open_f32c09e16027b9be.jpg",
+    "image_id": "f32c09e16027b9be",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.06888889,
+        0.015,
+        0.59555556,
+        0.985
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        52.91,
+        15.36,
+        457.39,
+        1008.64
+      ]
+    ],
+    "width": 768,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "P1000285",
+    "author": "J.H. Fearless",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/jessicareeder/5448119843",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/f32c09e16027b9be.jpg",
+    "split": "test"
+  },
+  {
+    "filename": "open_24766458a9f83849.jpg",
+    "image_id": "24766458a9f83849",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.225,
+        0.010416667,
+        0.19062500000000002,
+        0.883333333
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        230.4,
+        8.0,
+        195.2,
+        678.4
+      ]
+    ],
+    "width": 1024,
+    "height": 768,
+    "kind": "bottle",
+    "title": "Mythos beer",
+    "author": "James Cridland",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/jamescridland/5545661049",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/24766458a9f83849.jpg",
+    "split": "test"
+  },
+  {
+    "filename": "open_739f06c22d1f1edb.jpg",
+    "image_id": "739f06c22d1f1edb",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.28242677,
+        0.18847352,
+        0.36820083,
+        0.7102803799999999
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        215.49,
+        193.0,
+        280.94,
+        727.33
+      ]
+    ],
+    "width": 763,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "Spray Bottle",
+    "author": "Alisha Vargas",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/alishav/3259545450",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/739f06c22d1f1edb.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_41252915ac13a574.jpg",
+    "image_id": "41252915ac13a574",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.70625,
+        0.0609375,
+        0.1812499999999999,
+        0.45781250000000007
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        542.4,
+        62.4,
+        139.2,
+        468.8
+      ]
+    ],
+    "width": 768,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "10 Mercado del Agricultor G\u00fc\u00edmar. Inauguraci\u00f3n. 6 Octubre 2004",
+    "author": "Jose Mesa",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/liferfe/3981432958",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/41252915ac13a574.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_5821c61e6ec9d67a.jpg",
+    "image_id": "5821c61e6ec9d67a",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.046008117,
+        0.48915663,
+        0.293640083,
+        0.47228917000000004
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        47.11,
+        281.75,
+        300.69,
+        272.04
+      ]
+    ],
+    "width": 1024,
+    "height": 576,
+    "kind": "bottle",
+    "title": "Get used to it?",
+    "author": "Andy Li",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/andy-li/4376286940",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/5821c61e6ec9d67a.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_a119ed96a3eb26da.jpg",
+    "image_id": "a119ed96a3eb26da",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.07324365,
+        0.2576419,
+        0.30792227,
+        0.2576419
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        75.0,
+        180.61,
+        315.31,
+        180.61
+      ]
+    ],
+    "width": 1024,
+    "height": 701,
+    "kind": "bottle",
+    "title": "I knoews trickz",
+    "author": "extraterila",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/extraterila/4827555036",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/a119ed96a3eb26da.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_2ca98d21a076b2ce.jpg",
+    "image_id": "2ca98d21a076b2ce",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.32289627,
+        0.048333332,
+        0.28767123000000006,
+        0.769999968
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        281.57,
+        49.49,
+        250.85,
+        788.48
+      ]
+    ],
+    "width": 872,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "Project 365: 12-25-09 Toast!",
+    "author": "dee &amp; tula monstah",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/deel/4233644399",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/2ca98d21a076b2ce.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_e7ff04aefb2cc102.jpg",
+    "image_id": "e7ff04aefb2cc102",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.030973451,
+        0.042772863,
+        0.834070789,
+        0.817109137
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        21.15,
+        43.8,
+        569.67,
+        836.72
+      ]
+    ],
+    "width": 683,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "Homemade Mouthwash",
+    "author": "thedabblist",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/64636759@N07/8511157913",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/e7ff04aefb2cc102.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_392c3c9f706c5bb5.jpg",
+    "image_id": "392c3c9f706c5bb5",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.55210644,
+        0.22238587,
+        0.28159642000000007,
+        0.62297493
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        375.98,
+        227.72,
+        191.77,
+        637.93
+      ]
+    ],
+    "width": 681,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "Vino Dell\u2019 Amore",
+    "author": "Olivier GENDRIN",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/olivier_g/8007460788",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/392c3c9f706c5bb5.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_b0b4407a9ec06def.jpg",
+    "image_id": "b0b4407a9ec06def",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.35559568,
+        0.0,
+        0.30685921999999993,
+        0.99638987
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        364.13,
+        0.0,
+        314.22,
+        1020.3
+      ]
+    ],
+    "width": 1024,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "Tatra - polnisches Bier. Mild und dann ein leicht herber Abgang. Kann man gut trinken.",
+    "author": "Christopher Piontek",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/bitpage/20285860192",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/b0b4407a9ec06def.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_2b0d24e40261ed1a.jpg",
+    "image_id": "2b0d24e40261ed1a",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.08869179,
+        0.019117648,
+        0.79157431,
+        0.9470588019999999
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        60.31,
+        19.58,
+        538.27,
+        969.79
+      ]
+    ],
+    "width": 680,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "Oil and Vinegar",
+    "author": "Travis Wise",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/photographingtravis/15682423387",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/2b0d24e40261ed1a.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_85dd59ff7cf36d1b.jpg",
+    "image_id": "85dd59ff7cf36d1b",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.31875,
+        0.1640625,
+        0.39375000000000004,
+        0.775
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        244.8,
+        168.0,
+        302.4,
+        793.6
+      ]
+    ],
+    "width": 768,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "Pepsi NDNR",
+    "author": "Photography by Lynette",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/51981051@N08/4816050470/",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/85dd59ff7cf36d1b.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_910796da8a49348e.jpg",
+    "image_id": "910796da8a49348e",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.34225622,
+        0.13822526,
+        0.30783938,
+        0.69453924
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        312.48,
+        141.54,
+        281.06,
+        711.21
+      ]
+    ],
+    "width": 913,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "CreativeTools.se - PackshotCreator - CreativeTools.se - PackshotCreator - Jar of olives",
+    "author": "Creative Tools",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/creative_tools/4353175861",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/910796da8a49348e.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_3f68d660d5fd07e5.jpg",
+    "image_id": "3f68d660d5fd07e5",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.1286031,
+        0.105882354,
+        0.48115300000000005,
+        0.894117646
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        87.45,
+        108.42,
+        327.18,
+        915.58
+      ]
+    ],
+    "width": 680,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "Water bottle",
+    "author": "Jess Pac",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/7174132@N05/3878609409",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/3f68d660d5fd07e5.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_d973420311b00730.jpg",
+    "image_id": "d973420311b00730",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.13274336,
+        0.054263566,
+        0.7315634400000001,
+        0.9280177039999999
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        51.11,
+        55.57,
+        281.65,
+        950.29
+      ]
+    ],
+    "width": 385,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "\u30dd\u30e9\u30ea\u30b9\u30a6\u30a7\u30c3\u30c8\u3000ION WATER",
+    "author": "\u9673 \u30dd\u30fc\u30cf\u30f3",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/pohan-camera/2738548270/",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/d973420311b00730.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_34ca3219d7b67f16.jpg",
+    "image_id": "34ca3219d7b67f16",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.26170212,
+        0.06288344,
+        0.49787238000000006,
+        0.93711656
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        193.4,
+        64.39,
+        367.93,
+        959.61
+      ]
+    ],
+    "width": 739,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "Vintage Ad #1,260: I'll be home for Chivas",
+    "author": "Jamie",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/jbcurio/5221672980",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/34ca3219d7b67f16.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_5cc6d803cefe4dbf.jpg",
+    "image_id": "5cc6d803cefe4dbf",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.38088235,
+        0.31929046,
+        0.24411765000000002,
+        0.59201774
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        390.02,
+        217.12,
+        249.98,
+        402.57
+      ]
+    ],
+    "width": 1024,
+    "height": 680,
+    "kind": "bottle",
+    "title": "Live Pink",
+    "author": "Javier Gonz\u00e1lez",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/jjg_1977/19595299285",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/5cc6d803cefe4dbf.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_cd4e964d17223b05.jpg",
+    "image_id": "cd4e964d17223b05",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.37291667,
+        0.06875,
+        0.30208333000000004,
+        0.80625
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        286.4,
+        70.4,
+        232.0,
+        825.6
+      ]
+    ],
+    "width": 768,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "HOT SAUCE",
+    "author": "Blake Patterson",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/blakespot/2796549093",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/cd4e964d17223b05.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_4b1d8b33030b1706.jpg",
+    "image_id": "4b1d8b33030b1706",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.31858408,
+        0.0,
+        0.34513272,
+        0.9314159
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        326.23,
+        0.0,
+        353.42,
+        636.16
+      ]
+    ],
+    "width": 1024,
+    "height": 683,
+    "kind": "bottle",
+    "title": "Gin Mare - Mediterrean Gin",
+    "author": "Tim Lucas",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/toolmantim/7881671810",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/4b1d8b33030b1706.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_bf9fb499b6e991ab.jpg",
+    "image_id": "bf9fb499b6e991ab",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.20704846,
+        0.2549889,
+        0.66960354,
+        0.39024390000000003
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        140.38,
+        261.11,
+        453.99,
+        399.61
+      ]
+    ],
+    "width": 678,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "Maple Syrup bottle",
+    "author": "aolin",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/shoppeolina/17604798830",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/bf9fb499b6e991ab.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_efd4cbed58c62a88.jpg",
+    "image_id": "efd4cbed58c62a88",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.32083333,
+        0.0421875,
+        0.36041667,
+        0.9359375
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        246.4,
+        43.2,
+        276.8,
+        958.4
+      ]
+    ],
+    "width": 768,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "Marble Codd bottle, back - Belfast Aerated Water Company Sydney, aquamarine 6 oz",
+    "author": "S. Rohrlach",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/97672434@N07/9077418570",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/efd4cbed58c62a88.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_6a5086b8152cc904.jpg",
+    "image_id": "6a5086b8152cc904",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.2640625,
+        0.0,
+        0.35468750000000004,
+        1.0
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        270.4,
+        0.0,
+        363.2,
+        768.0
+      ]
+    ],
+    "width": 1024,
+    "height": 768,
+    "kind": "bottle",
+    "title": "Zubrowka ahoy!",
+    "author": "medea_material",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/medea_material/4592819026",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/6a5086b8152cc904.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_3cedf0b8a8e5abf5.jpg",
+    "image_id": "3cedf0b8a8e5abf5",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.420339,
+        0.22307692,
+        0.40508469999999996,
+        0.23076924
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        365.69,
+        171.32,
+        352.42,
+        177.23
+      ]
+    ],
+    "width": 870,
+    "height": 768,
+    "kind": "bottle",
+    "title": "puddle-based interaction",
+    "author": "Eric Rosenbaum",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/ericrosenbaum/6924472057",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/3cedf0b8a8e5abf5.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_e51e3156ed41b3a8.jpg",
+    "image_id": "e51e3156ed41b3a8",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.0,
+        0.0,
+        0.25735295,
+        1.0
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        0.0,
+        0.0,
+        263.53,
+        680.0
+      ]
+    ],
+    "width": 1024,
+    "height": 680,
+    "kind": "bottle",
+    "title": "William Chris Vineyards",
+    "author": "Adam Barhan",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/adambarhan/7244499778",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/e51e3156ed41b3a8.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_b73597a889663f1c.jpg",
+    "image_id": "b73597a889663f1c",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.1493976,
+        0.0054200543,
+        0.53253014,
+        0.9945799457
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        86.05,
+        5.55,
+        306.74,
+        1018.45
+      ]
+    ],
+    "width": 576,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "Fuentevera",
+    "author": "Nacho",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/gonmi/8440550747/",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/b73597a889663f1c.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_1a04c113301b09f8.jpg",
+    "image_id": "1a04c113301b09f8",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.5577617,
+        0.037906136,
+        0.28700366999999993,
+        0.770758124
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        571.15,
+        38.82,
+        293.89,
+        789.26
+      ]
+    ],
+    "width": 1024,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "Why yes I think I will. Cc @shannonrich",
+    "author": "Jenn Lowther",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/jennmae/5278920808",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/1a04c113301b09f8.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_487815c82c579830.jpg",
+    "image_id": "487815c82c579830",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.5228277,
+        0.044247787,
+        0.17378496,
+        0.946902653
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        535.38,
+        30.18,
+        177.96,
+        645.79
+      ]
+    ],
+    "width": 1024,
+    "height": 682,
+    "kind": "bottle",
+    "title": "Cheers!!!",
+    "author": "Kasia",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/mysza/2258189812",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/487815c82c579830.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_0d24b635e58e9dc0.jpg",
+    "image_id": "0d24b635e58e9dc0",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.34146342,
+        0.13254787,
+        0.33037694999999995,
+        0.85714283
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        232.54,
+        135.73,
+        224.99,
+        877.71
+      ]
+    ],
+    "width": 681,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "DSC_0023",
+    "author": "finchlake2000",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/finchlake/4990878899",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/0d24b635e58e9dc0.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_16407cf2533cf584.jpg",
+    "image_id": "16407cf2533cf584",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.2300885,
+        0.02359882,
+        0.6039823,
+        0.91740414
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        157.15,
+        24.17,
+        412.52,
+        939.42
+      ]
+    ],
+    "width": 683,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "cK",
+    "author": "Andy Nguyen",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/bigburpsx3/4348296854",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/16407cf2533cf584.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_2667b07b9aee53e5.jpg",
+    "image_id": "2667b07b9aee53e5",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.055309735,
+        0.03539823,
+        0.9070796649999999,
+        0.92330387
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        37.78,
+        36.25,
+        619.54,
+        945.46
+      ]
+    ],
+    "width": 683,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "Squid! Soap!",
+    "author": "Crystal",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/10953991@N00/472738906",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/2667b07b9aee53e5.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_47b56f870752e1c2.jpg",
+    "image_id": "47b56f870752e1c2",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.36666667,
+        0.0515625,
+        0.37708333000000005,
+        0.9265625000000001
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        281.6,
+        52.8,
+        289.6,
+        948.8
+      ]
+    ],
+    "width": 768,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "Baby Bottle",
+    "author": "brokinhrt2",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/dq090702/2999894253",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/47b56f870752e1c2.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_483cda6a77505e11.jpg",
+    "image_id": "483cda6a77505e11",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.33032492,
+        0.1299639,
+        0.28339348,
+        0.79963896
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        338.25,
+        133.08,
+        290.19,
+        818.83
+      ]
+    ],
+    "width": 1024,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "upload",
+    "author": "RURU HEBE Lucero del Alba",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/ifita/8759448172",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/483cda6a77505e11.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_49e6a10cc09950c8.jpg",
+    "image_id": "49e6a10cc09950c8",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.25902337,
+        0.026113672,
+        0.44373673,
+        0.963133628
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        192.2,
+        26.74,
+        329.25,
+        986.25
+      ]
+    ],
+    "width": 742,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "Volvic ad shot",
+    "author": "pyntofmyld",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/pyntofmyld/213297601",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/49e6a10cc09950c8.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_1669e43ee806f539.jpg",
+    "image_id": "1669e43ee806f539",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.19690265,
+        0.089838,
+        0.6128318500000001,
+        0.8748159
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        134.29,
+        91.99,
+        417.95,
+        895.81
+      ]
+    ],
+    "width": 682,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "Dove",
+    "author": "Marcos Andr\u00e9",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/marcodede/151996124",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/1669e43ee806f539.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_a5dc9b8e19130d1e.jpg",
+    "image_id": "a5dc9b8e19130d1e",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.8265625,
+        0.15,
+        0.17343750000000002,
+        0.37708334
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        846.4,
+        115.2,
+        177.6,
+        289.6
+      ]
+    ],
+    "width": 1024,
+    "height": 768,
+    "kind": "bottle",
+    "title": "bacon prizes",
+    "author": "Karen",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/misbehave/4558504862",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/a5dc9b8e19130d1e.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_202487fc0ba87722.jpg",
+    "image_id": "202487fc0ba87722",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.3484375,
+        0.12708333,
+        0.32656250000000003,
+        0.7750000100000001
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        356.8,
+        97.6,
+        334.4,
+        595.2
+      ]
+    ],
+    "width": 1024,
+    "height": 768,
+    "kind": "bottle",
+    "title": "nikon4600_58",
+    "author": "Rony B Chandran",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/ronybc/1160698386",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/202487fc0ba87722.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_0acfa779589204bf.jpg",
+    "image_id": "0acfa779589204bf",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.0,
+        0.066787004,
+        0.22202165,
+        0.8808663959999999
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        0.0,
+        51.29,
+        170.51,
+        676.51
+      ]
+    ],
+    "width": 768,
+    "height": 768,
+    "kind": "bottle",
+    "title": "Date night with @loganenator!",
+    "author": "Tammy Strobel",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/rowdykittens/8334654948",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/0acfa779589204bf.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_bf7648f1cec9338a.jpg",
+    "image_id": "bf7648f1cec9338a",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.23104693,
+        0.009025271,
+        0.30324911,
+        0.837545129
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        236.59,
+        9.24,
+        310.53,
+        857.65
+      ]
+    ],
+    "width": 1024,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "@timsimeone introduced me to my favorite whiskey.",
+    "author": "Adam Lehman",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/14519665@N05/14834936283",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/bf7648f1cec9338a.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_b56650b919a714cc.jpg",
+    "image_id": "b56650b919a714cc",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.14259928,
+        0.018083183,
+        0.59025272,
+        0.958408687
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        146.02,
+        18.46,
+        604.42,
+        978.54
+      ]
+    ],
+    "width": 1024,
+    "height": 1021,
+    "kind": "bottle",
+    "title": "Crystal Skull Vodka",
+    "author": "dailylifeofmojo",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/dailylifeofmojo/3132268117",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/b56650b919a714cc.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_c914001730777e42.jpg",
+    "image_id": "c914001730777e42",
+    "expected_count": 1,
+    "boxes": [
+      [
+        0.17130621,
+        0.05945122,
+        0.62312629,
+        0.87652438
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        125.05,
+        60.88,
+        454.88,
+        897.56
+      ]
+    ],
+    "width": 730,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "detox water \u2013 helps you maintain a flat belly, 2 l",
+    "author": "adinaplus",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/48726352@N08/8177083595",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/c914001730777e42.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_6b314080cc535053.jpg",
+    "image_id": "6b314080cc535053",
+    "expected_count": 2,
+    "boxes": [
+      [
+        0.13125,
+        0.12050078,
+        0.4208333000000001,
+        0.6071987200000001
+      ],
+      [
+        0.47083333,
+        0.27856025,
+        0.39791667000000003,
+        0.51486695
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        100.8,
+        123.39,
+        323.2,
+        621.77
+      ],
+      [
+        361.6,
+        285.25,
+        305.6,
+        527.22
+      ]
+    ],
+    "width": 768,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "26",
+    "author": "Ralph Aichinger",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/sooperkuh/4235215134",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/6b314080cc535053.jpg",
+    "split": "test"
+  },
+  {
+    "filename": "open_19a9c18bb631cf3f.jpg",
+    "image_id": "19a9c18bb631cf3f",
+    "expected_count": 2,
+    "boxes": [
+      [
+        0.13898917,
+        0.0,
+        0.35379063,
+        0.8357401
+      ],
+      [
+        0.45306858,
+        0.057761732,
+        0.22021662000000003,
+        0.851985568
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        106.74,
+        0.0,
+        271.71,
+        641.85
+      ],
+      [
+        347.96,
+        44.36,
+        169.13,
+        654.32
+      ]
+    ],
+    "width": 768,
+    "height": 768,
+    "kind": "bottle",
+    "title": "Tweeted on 08/29/2015 at 04:57 PM",
+    "author": "Cory Sitko",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/csitko/20986082565",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/19a9c18bb631cf3f.jpg",
+    "split": "test"
+  },
+  {
+    "filename": "open_2db0a13fe42bd957.jpg",
+    "image_id": "2db0a13fe42bd957",
+    "expected_count": 2,
+    "boxes": [
+      [
+        0.296875,
+        0.08958333,
+        0.2,
+        0.82708337
+      ],
+      [
+        0.59375,
+        0.0875,
+        0.19687500000000002,
+        0.8312499999999999
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        304.0,
+        68.8,
+        204.8,
+        635.2
+      ],
+      [
+        608.0,
+        67.2,
+        201.6,
+        638.4
+      ]
+    ],
+    "width": 1024,
+    "height": 768,
+    "kind": "bottle",
+    "title": "KIF_3548",
+    "author": "Andreas Kontokanis",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/karpidis/1174135127",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/2db0a13fe42bd957.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_a4ce8204dc010b24.jpg",
+    "image_id": "a4ce8204dc010b24",
+    "expected_count": 2,
+    "boxes": [
+      [
+        0.1724138,
+        0.12606473,
+        0.30842912,
+        0.71550257
+      ],
+      [
+        0.4789272,
+        0.14139694,
+        0.31800764000000004,
+        0.71550256
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        156.9,
+        129.09,
+        280.67,
+        732.67
+      ],
+      [
+        435.82,
+        144.79,
+        289.39,
+        732.67
+      ]
+    ],
+    "width": 910,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "Icing Nail Polish",
+    "author": "egonzalesmarquez",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/egonzalesmarquez/5830105328",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/a4ce8204dc010b24.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_dbfd3450deea8b7a.jpg",
+    "image_id": "dbfd3450deea8b7a",
+    "expected_count": 2,
+    "boxes": [
+      [
+        0.021951219,
+        0.025401069,
+        0.434146351,
+        0.949197871
+      ],
+      [
+        0.46585366,
+        0.010695187,
+        0.5317073400000001,
+        0.977272713
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        12.34,
+        26.01,
+        243.99,
+        971.98
+      ],
+      [
+        261.81,
+        10.95,
+        298.82,
+        1000.73
+      ]
+    ],
+    "width": 562,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "Agua embotellada en Chequia",
+    "author": "Rafael Robles",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/rafaelrobles/2861627647",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/dbfd3450deea8b7a.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_031244297d177089.jpg",
+    "image_id": "031244297d177089",
+    "expected_count": 2,
+    "boxes": [
+      [
+        0.0,
+        0.0,
+        0.95441175,
+        0.4390244
+      ],
+      [
+        0.0,
+        0.4323725,
+        0.99852943,
+        0.5676275
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        0.0,
+        0.0,
+        648.05,
+        449.56
+      ],
+      [
+        0.0,
+        442.75,
+        678.0,
+        581.25
+      ]
+    ],
+    "width": 679,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "Alcohol for the Bisque",
+    "author": "snowpea&amp;bokchoi",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/bokchoi-snowpea/4685520190",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/031244297d177089.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_a9e9ac505c51abef.jpg",
+    "image_id": "a9e9ac505c51abef",
+    "expected_count": 2,
+    "boxes": [
+      [
+        0.18772563,
+        0.032490976,
+        0.49638987,
+        0.855595624
+      ],
+      [
+        0.8808664,
+        0.07039711,
+        0.08483755999999998,
+        0.28880867
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        192.23,
+        33.27,
+        508.3,
+        876.13
+      ],
+      [
+        902.01,
+        72.09,
+        86.87,
+        295.74
+      ]
+    ],
+    "width": 1024,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "I'm at #SipBar in Clinton Hill, Brooklyn sipping P Diddy's new tequila #Deleon. I'm a #Petron Silver fan who has switched. #tequila #seancombs #pdiddy #booze",
+    "author": "Powell Burns",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/powellburns/16109031073",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/a9e9ac505c51abef.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_25275432b3ec6f9b.jpg",
+    "image_id": "25275432b3ec6f9b",
+    "expected_count": 2,
+    "boxes": [
+      [
+        0.228125,
+        0.21458334,
+        0.2671875,
+        0.66458332
+      ],
+      [
+        0.503125,
+        0.2375,
+        0.2875,
+        0.6541666500000001
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        233.6,
+        164.8,
+        273.6,
+        510.4
+      ],
+      [
+        515.2,
+        182.4,
+        294.4,
+        502.4
+      ]
+    ],
+    "width": 1024,
+    "height": 768,
+    "kind": "bottle",
+    "title": "Salt and Pepper",
+    "author": "Thomas Quine",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/quinet/147403159",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/25275432b3ec6f9b.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_56578e312e04853a.jpg",
+    "image_id": "56578e312e04853a",
+    "expected_count": 2,
+    "boxes": [
+      [
+        0.1875,
+        0.0953125,
+        0.34791666,
+        0.809375
+      ],
+      [
+        0.5541667,
+        0.29375,
+        0.33958330000000003,
+        0.6140625
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        144.0,
+        97.6,
+        267.2,
+        828.8
+      ],
+      [
+        425.6,
+        300.8,
+        260.8,
+        628.8
+      ]
+    ],
+    "width": 768,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "\u3068\u3046\u3068\u3046\u8cb7\u3063\u3066\u3057\u307e\u3063\u305f\u3002w #newyork #NY #NewYork",
+    "author": "tsubasuke5",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/tabitha0921/4501435332",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/56578e312e04853a.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_03abc39ad2c14097.jpg",
+    "image_id": "03abc39ad2c14097",
+    "expected_count": 2,
+    "boxes": [
+      [
+        0.061965812,
+        0.03664122,
+        0.418803408,
+        0.9465648799999999
+      ],
+      [
+        0.5,
+        0.03816794,
+        0.42521370000000003,
+        0.9419847299999999
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        45.42,
+        37.52,
+        306.98,
+        969.28
+      ],
+      [
+        366.5,
+        39.08,
+        311.68,
+        964.59
+      ]
+    ],
+    "width": 733,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "Wastewater samples before and after treatment in a VFB",
+    "author": "SuSanA Secretariat",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/gtzecosan/5546714555",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/03abc39ad2c14097.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_7201baca749f301f.jpg",
+    "image_id": "7201baca749f301f",
+    "expected_count": 2,
+    "boxes": [
+      [
+        0.16064982,
+        0.433213,
+        0.16064982,
+        0.4404332
+      ],
+      [
+        0.71299636,
+        0.43140793,
+        0.16787004000000005,
+        0.45667866999999995
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        123.38,
+        332.71,
+        123.38,
+        338.25
+      ],
+      [
+        547.58,
+        331.32,
+        128.92,
+        350.73
+      ]
+    ],
+    "width": 768,
+    "height": 768,
+    "kind": "bottle",
+    "title": "Pas fini \u00e0 la moutarde...",
+    "author": "sophie &amp; cie",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/biscotte/7171628090",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/7201baca749f301f.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_1b9eb52c0e2cf93c.jpg",
+    "image_id": "1b9eb52c0e2cf93c",
+    "expected_count": 3,
+    "boxes": [
+      [
+        0.16458334,
+        0.50625,
+        0.13124998000000002,
+        0.20625000000000004
+      ],
+      [
+        0.5,
+        0.571875,
+        0.09375,
+        0.18593749999999998
+      ],
+      [
+        0.625,
+        0.4734375,
+        0.18958335999999998,
+        0.5140625000000001
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        126.4,
+        518.4,
+        100.8,
+        211.2
+      ],
+      [
+        384.0,
+        585.6,
+        72.0,
+        190.4
+      ],
+      [
+        480.0,
+        484.8,
+        145.6,
+        526.4
+      ]
+    ],
+    "width": 768,
+    "height": 1024,
+    "kind": "bottle",
+    "title": "Mum's Cupboard - Not Bare",
+    "author": "MelvinPrice",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/melvinprice/2220088917",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/1b9eb52c0e2cf93c.jpg",
+    "split": "test"
+  },
+  {
+    "filename": "open_8389085968bd2d8e.jpg",
+    "image_id": "8389085968bd2d8e",
+    "expected_count": 3,
+    "boxes": [
+      [
+        0.02782071,
+        0.15611814,
+        0.26429676999999996,
+        0.7341772599999999
+      ],
+      [
+        0.3724884,
+        0.12025317,
+        0.26738797,
+        0.74683543
+      ],
+      [
+        0.690881,
+        0.06962025,
+        0.2720247,
+        0.7827004500000001
+      ]
+    ],
+    "boxes_xywh_px": [
+      [
+        28.49,
+        117.24,
+        270.64,
+        551.37
+      ],
+      [
+        381.43,
+        90.31,
+        273.81,
+        560.87
+      ],
+      [
+        707.46,
+        52.28,
+        278.55,
+        587.81
+      ]
+    ],
+    "width": 1024,
+    "height": 751,
+    "kind": "bottle",
+    "title": "Salmon Eggs at Bonneville Vistor Center",
+    "author": "Northwest Power and Conservation Council",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/nwcouncil/7181056835",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/8389085968bd2d8e.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_bb33be1dbb069801.jpg",
+    "image_id": "bb33be1dbb069801",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 692,
+    "height": 1024,
+    "kind": "can",
+    "title": "RedBull",
+    "author": "Shohei Uda",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/127453600@N06/15433698576",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/bb33be1dbb069801.jpg",
+    "split": "test"
+  },
+  {
+    "filename": "open_4f7d053dae54f52e.jpg",
+    "image_id": "4f7d053dae54f52e",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 1024,
+    "height": 768,
+    "kind": "can",
+    "title": "Big Coca Cola",
+    "author": "Mohan Patcha",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/mohanpatcha/407635255",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/4f7d053dae54f52e.jpg",
+    "split": "test"
+  },
+  {
+    "filename": "open_c00da4997e251527.jpg",
+    "image_id": "c00da4997e251527",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 768,
+    "height": 1024,
+    "kind": "can",
+    "title": "Premium Yebisu Royal Selection",
+    "author": "Usodesita",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/tamaranai/17185590845",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/c00da4997e251527.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_30a3c8d8c648be4f.jpg",
+    "image_id": "30a3c8d8c648be4f",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 1024,
+    "height": 1024,
+    "kind": "can",
+    "title": "\u6240\u7528\u3067\u4f50\u8cc0\u770c\u306a\u3046\u3002\u6240\u7528\u306f\u306a\u3044\u3051\u3069\u98f2\u3093\u3067\u308b\u3002",
+    "author": "Kazuhisa OTSUBO",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/cytech/20488567806",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/30a3c8d8c648be4f.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_1f39eebfe743a820.jpg",
+    "image_id": "1f39eebfe743a820",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 1024,
+    "height": 842,
+    "kind": "can",
+    "title": "Perrier and... Ant",
+    "author": "OC Always",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://flickr.com/47246800@N03/20896843349",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/1f39eebfe743a820.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_13cf6bf7a6614f07.jpg",
+    "image_id": "13cf6bf7a6614f07",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 768,
+    "height": 1024,
+    "kind": "can",
+    "title": "DSCF2550",
+    "author": "Takeshi Kuboki",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/kuboki/4036072149",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/13cf6bf7a6614f07.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_eadc34667bc846bc.jpg",
+    "image_id": "eadc34667bc846bc",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 1024,
+    "height": 768,
+    "kind": "can",
+    "title": "Kokanee Glacier Beer",
+    "author": "Ted &amp; Dani Percival",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/tedpercival/2115264342",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/eadc34667bc846bc.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_fa04ae54a6903d5c.jpg",
+    "image_id": "fa04ae54a6903d5c",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 1024,
+    "height": 768,
+    "kind": "can",
+    "title": "Fix",
+    "author": "Edward Lund",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/the_hookups/1046597672",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/fa04ae54a6903d5c.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_c3b7b259188f3f88.jpg",
+    "image_id": "c3b7b259188f3f88",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 768,
+    "height": 1024,
+    "kind": "can",
+    "title": "Southern Star Bombshell Blonde",
+    "author": "Lynn F",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/lynnmarie/5571359502",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/c3b7b259188f3f88.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_18c116997ddb662b.jpg",
+    "image_id": "18c116997ddb662b",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 780,
+    "height": 1024,
+    "kind": "mug",
+    "title": "22 - Nelken, Koenji",
+    "author": "Krzysztof Derwinski",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/k_derwinski/5460933548",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/18c116997ddb662b.jpg",
+    "split": "test"
+  },
+  {
+    "filename": "open_a234b17c1813407c.jpg",
+    "image_id": "a234b17c1813407c",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 768,
+    "height": 1024,
+    "kind": "mug",
+    "title": "IMG_1225",
+    "author": "Mike Spasoff",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/clownfish/12580109095",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/a234b17c1813407c.jpg",
+    "split": "test"
+  },
+  {
+    "filename": "open_60c5d71f33765ee3.jpg",
+    "image_id": "60c5d71f33765ee3",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 1024,
+    "height": 686,
+    "kind": "mug",
+    "title": "Mugs of tea",
+    "author": "David Martyn Hunt",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/davidchief/3011373574",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/60c5d71f33765ee3.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_34aebaebe39bfaf0.jpg",
+    "image_id": "34aebaebe39bfaf0",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 1024,
+    "height": 1024,
+    "kind": "mug",
+    "title": "T\u00e9 matutino...",
+    "author": "Carles Ca\u00f1o Valls",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/carlescv/6429975597",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/34aebaebe39bfaf0.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_f1f7ff1db85041ce.jpg",
+    "image_id": "f1f7ff1db85041ce",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 1024,
+    "height": 768,
+    "kind": "mug",
+    "title": "DSC09130",
+    "author": "Debs (\u00f2\u203f\u00f3)\u266a",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/littledebbie11/3193173953",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/f1f7ff1db85041ce.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_800ee74da18e4ed4.jpg",
+    "image_id": "800ee74da18e4ed4",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 768,
+    "height": 1024,
+    "kind": "mug",
+    "title": "\u6628\u65e5\u304b\u3089\u4f7f\u3044\u59cb\u3081\u305f\u96fb\u6c17\u30dd\u30c3\u30c8\u3001T-fal JUSTINE\u304c\u3059\u3054\u304f\u4fbf\u5229\u3002",
+    "author": "Ryoichi Tanaka",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/ryoichitanaka/4018266542",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/800ee74da18e4ed4.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_dcdbabe52cb921f4.jpg",
+    "image_id": "dcdbabe52cb921f4",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 712,
+    "height": 1024,
+    "kind": "mug",
+    "title": "February 6, 2011",
+    "author": "Jeremy Jenum",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/jenumfamily/5423247351",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/dcdbabe52cb921f4.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_8f1ea5e11dbc40e5.jpg",
+    "image_id": "8f1ea5e11dbc40e5",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 1024,
+    "height": 679,
+    "kind": "mug",
+    "title": "\u53f0\u5317\u7a7a\u6e2f\u306e\u591c\u5e02\u98a8\u306e\u5c4b\u53f0\u8857\u3067\u5915\u98df",
+    "author": "Yusuke Kawasaki",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/u-suke/3780451000/",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/8f1ea5e11dbc40e5.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_43197f53dc624b26.jpg",
+    "image_id": "43197f53dc624b26",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 768,
+    "height": 768,
+    "kind": "coffee cup",
+    "title": "Bom dia sexta-feira \ud83d\udc4d\ud83d\ude03\u2615\ufe0f\u2615\ufe0f\u2615\ufe0f #cafe #cafedamanha #coffee #saopaulo #padaria",
+    "author": "Mark Hillary",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/markhillary/20763351081",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/43197f53dc624b26.jpg",
+    "split": "test"
+  },
+  {
+    "filename": "open_02eaecd683dbdb9f.jpg",
+    "image_id": "02eaecd683dbdb9f",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 1024,
+    "height": 573,
+    "kind": "coffee cup",
+    "title": "lavender hot chocolate",
+    "author": "Andrea Goh",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/thebokeeffect/7308579380",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/02eaecd683dbdb9f.jpg",
+    "split": "test"
+  },
+  {
+    "filename": "open_1e6104d5518cb3f9.jpg",
+    "image_id": "1e6104d5518cb3f9",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 1024,
+    "height": 1024,
+    "kind": "coffee cup",
+    "title": "Afternoon coffeine shot",
+    "author": "mi)",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/46695600@N03/6641737061",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/1e6104d5518cb3f9.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_668233ba2eb61801.jpg",
+    "image_id": "668233ba2eb61801",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 1024,
+    "height": 771,
+    "kind": "coffee cup",
+    "title": "Like a Coffee Tray on a Table",
+    "author": "Garry Knight",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/8176740@N05/6147191008",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/668233ba2eb61801.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_6c4ad7f5176f72bc.jpg",
+    "image_id": "6c4ad7f5176f72bc",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 1024,
+    "height": 768,
+    "kind": "coffee cup",
+    "title": "Cafe Con Leche - Don Ramon - Royal Palm Beach, FL",
+    "author": "shelnew19",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/shelnew19/13894619349",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/6c4ad7f5176f72bc.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_30684018da0c5afd.jpg",
+    "image_id": "30684018da0c5afd",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 1024,
+    "height": 768,
+    "kind": "coffee cup",
+    "title": "Lecker Kaffee",
+    "author": "M. Schmid",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/marsboot/6168759046",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/30684018da0c5afd.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_079012bc764b139b.jpg",
+    "image_id": "079012bc764b139b",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 1024,
+    "height": 768,
+    "kind": "coffee cup",
+    "title": "88-215-A Gravy Boat, USF Constitution",
+    "author": "Naval History &amp; Heritage Command",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/navalhistory/5168936999",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/079012bc764b139b.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_d4c9a417b5e7ba37.jpg",
+    "image_id": "d4c9a417b5e7ba37",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 768,
+    "height": 1024,
+    "kind": "coffee cup",
+    "title": "Creamer",
+    "author": "Rich Moore",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/richmooremi/4872716344",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/d4c9a417b5e7ba37.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_1bcc3a294ca5d0fd.jpg",
+    "image_id": "1bcc3a294ca5d0fd",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 758,
+    "height": 1024,
+    "kind": "wine glass",
+    "title": "IMG_20141115_171259",
+    "author": "jwalsh",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/jwalsh_/15191672594",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/1bcc3a294ca5d0fd.jpg",
+    "split": "test"
+  },
+  {
+    "filename": "open_31d8491aa40b6acb.jpg",
+    "image_id": "31d8491aa40b6acb",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 887,
+    "height": 1024,
+    "kind": "wine glass",
+    "title": "fun (69 of 80)",
+    "author": "Luis Avilesortiz",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/walkingcamera/7482130098",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/31d8491aa40b6acb.jpg",
+    "split": "test"
+  },
+  {
+    "filename": "open_59e735f67c87e53c.jpg",
+    "image_id": "59e735f67c87e53c",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 642,
+    "height": 1024,
+    "kind": "wine glass",
+    "title": "20090407-_MG_0029",
+    "author": "bokehaddict",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/maximilianmann/3423234133",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/59e735f67c87e53c.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_e36fdd9f3c9c5f5f.jpg",
+    "image_id": "e36fdd9f3c9c5f5f",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 685,
+    "height": 1024,
+    "kind": "wine glass",
+    "title": "The last of the summer's wine",
+    "author": "cate cuerden",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/20444974@N03/4956530419",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/e36fdd9f3c9c5f5f.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_d75d2f60277ffc2c.jpg",
+    "image_id": "d75d2f60277ffc2c",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 1024,
+    "height": 567,
+    "kind": "wine glass",
+    "title": "Kutani-Wine-glass-3",
+    "author": "Ayaki Ito",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/japanbrandroma/5092392009",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/d75d2f60277ffc2c.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_8297ce560e5df319.jpg",
+    "image_id": "8297ce560e5df319",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 646,
+    "height": 1024,
+    "kind": "wine glass",
+    "title": "A Sellafield Cocktail",
+    "author": "Ozzy Delaney",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/24931020@N02/8185312667",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/8297ce560e5df319.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_43f2a4b7197637ff.jpg",
+    "image_id": "43f2a4b7197637ff",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 832,
+    "height": 1024,
+    "kind": "wine glass",
+    "title": "Wine night",
+    "author": "Martin Hesketh",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/martinhesketh/8543511087",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/43f2a4b7197637ff.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_1220e474e709cdf1.jpg",
+    "image_id": "1220e474e709cdf1",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 1024,
+    "height": 1024,
+    "kind": "wine glass",
+    "title": "This is called the #hashtag! It's really good! #vipkloutexperts",
+    "author": "Michael Sheehan",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/hightechdad/9088230185",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/1220e474e709cdf1.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_ba2ce56c4a558b46.jpg",
+    "image_id": "ba2ce56c4a558b46",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 683,
+    "height": 1024,
+    "kind": "wine glass",
+    "title": "9 Louise Cohen Henny Van Belkom",
+    "author": "Louise Cohen",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/louisecohen/14876585957",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/ba2ce56c4a558b46.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_9d7b2b69e8859bc9.jpg",
+    "image_id": "9d7b2b69e8859bc9",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 1024,
+    "height": 683,
+    "kind": "wine glass",
+    "title": "20120425_digitas_6932",
+    "author": "Digitas Photos",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/digitas/6969264806",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/9d7b2b69e8859bc9.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_231ddca25281b7f2.jpg",
+    "image_id": "231ddca25281b7f2",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 1024,
+    "height": 680,
+    "kind": "person",
+    "title": "DSC_1874",
+    "author": "zaini abdullah",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/zakulaan/4611488636",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/231ddca25281b7f2.jpg",
+    "split": "test"
+  },
+  {
+    "filename": "open_a7fff35b5cbb0fb0.jpg",
+    "image_id": "a7fff35b5cbb0fb0",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 1024,
+    "height": 984,
+    "kind": "person",
+    "title": "Biking at Skeggs today",
+    "author": "Steve Jurvetson",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/jurvetson/9118835011",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/a7fff35b5cbb0fb0.jpg",
+    "split": "test"
+  },
+  {
+    "filename": "open_918b59dde1a5adc1.jpg",
+    "image_id": "918b59dde1a5adc1",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 768,
+    "height": 1024,
+    "kind": "person",
+    "title": "JAXAi\u306b\u3066",
+    "author": "allegro Takahi",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/allegro/97057669",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/918b59dde1a5adc1.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_232299e70b9fe949.jpg",
+    "image_id": "232299e70b9fe949",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 683,
+    "height": 1024,
+    "kind": "person",
+    "title": "Loooooou",
+    "author": "Steven Smith",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/steven_smith/3453990697",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/232299e70b9fe949.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_b6ef797db2a747e0.jpg",
+    "image_id": "b6ef797db2a747e0",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 1024,
+    "height": 768,
+    "kind": "person",
+    "title": "IXW_8061",
+    "author": "Leon Brocard",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/acme/14675125058",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/b6ef797db2a747e0.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_935acb1cbbe1c4cc.jpg",
+    "image_id": "935acb1cbbe1c4cc",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 1024,
+    "height": 683,
+    "kind": "person",
+    "title": "Eishockey ESC Wildcats",
+    "author": "lau10o",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/127600128@N05/15341853707",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/935acb1cbbe1c4cc.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_b7b8279ee5925bbc.jpg",
+    "image_id": "b7b8279ee5925bbc",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 1024,
+    "height": 683,
+    "kind": "person",
+    "title": "Mak\u00f3c\u00e1pa: a vill\u00e1mgyors gyilkos",
+    "author": "Lwp Kommunik\u00e1ci\u00f3",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/lwpkommunikacio/20314088886",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/b7b8279ee5925bbc.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_7c7653ed45892efc.jpg",
+    "image_id": "7c7653ed45892efc",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 998,
+    "height": 1024,
+    "kind": "person",
+    "title": "Hold On Tight",
+    "author": "Bud Ellison",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/budellison/15783522903",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/7c7653ed45892efc.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_a11f84e0107ca0a4.jpg",
+    "image_id": "a11f84e0107ca0a4",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 938,
+    "height": 1024,
+    "kind": "person",
+    "title": "100_1217",
+    "author": "Nantaskart!",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/nantaskart/209729585",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/a11f84e0107ca0a4.jpg",
+    "split": "train"
+  },
+  {
+    "filename": "open_b6f6668ab9204fe8.jpg",
+    "image_id": "b6f6668ab9204fe8",
+    "expected_count": 0,
+    "boxes": [],
+    "boxes_xywh_px": [],
+    "width": 1024,
+    "height": 683,
+    "kind": "person",
+    "title": "0N0A5489",
+    "author": "Chadwick Cipiti",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/chadwickdc/17592331559",
+    "download_url": "https://open-images-dataset.s3.amazonaws.com/validation/b6f6668ab9204fe8.jpg",
+    "split": "train"
+  }
+]

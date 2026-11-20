@@ -1,0 +1,8 @@
+The bottle scanner uses MediaPipe Tasks Vision 0.10.21 and EfficientDet-Lite0 int8.
+Copyright Google LLC and the MediaPipe Authors. Licensed under the Apache License, Version 2.0.
+The accompanying LICENSE includes the license text.
+
+Runtime: https://www.npmjs.com/package/@mediapipe/tasks-vision/v/0.10.21
+Model card: https://huggingface.co/litert-community/MediaPipe-ObjectDetector-EfficientDet-Lite0
+Weights: https://storage.googleapis.com/mediapipe-models/object_detector/efficientdet_lite0/int8/1/efficientdet_lite0.tflite
+SHA-256: 0720bf247bd76e6594ea28fa9c6f7c5242be774818997dbbeffc4da460c723bb
