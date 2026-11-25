@@ -1,0 +1,9 @@
+{
+  "candidateScore": 0.25,
+  "minimumScore": 0.32,
+  "agreementScore": 0.25,
+  "intercept": 2.71869131,
+  "scoreWeight": 1.1108403,
+  "areaWeight": 1.00897625,
+  "decisionLogit": -1.38629436
+}
